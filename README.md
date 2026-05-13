@@ -228,7 +228,7 @@ This approach supports:
 - Climate adaptation strategies
 - Infrastructure investment planning
 
-![Flood Priority Index](figures/Flood priority index1.png)
+![Flood Priority Index](figures/Flood_priority_index1.png)
 
 ---
 
