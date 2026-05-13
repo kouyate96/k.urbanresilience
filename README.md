@@ -272,8 +272,7 @@ Potential future developments include:
 
 # Contact
 
-- LinkedIn: www.linkedin.com/in/fousseini-kouyate
-- Email: your_email_here
+- LinkedIn: www.linkedin.com/in/fousseini-kouyate-ph-d-2b650034a
 
 ---
 
